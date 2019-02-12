@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1Tests\obj\Debug\ConsoleApp1Tests.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1Tests\obj\Debug\ConsoleApp1Tests.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1Tests\bin\Debug\ConsoleApp1Tests.dll
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1Tests\bin\Debug\ConsoleApp1Tests.pdb
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1Tests\bin\Debug\ConsoleApp1.exe
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1Tests\bin\Debug\ConsoleApp1.pdb
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1Tests\bin\Debug\ConsoleApp1.exe.config
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1Tests\bin\Debug\it\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1Tests\obj\Debug\ConsoleApp1Tests.csproj.CopyComplete
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1Tests\obj\Debug\ConsoleApp1Tests.dll
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1Tests\obj\Debug\ConsoleApp1Tests.pdb
